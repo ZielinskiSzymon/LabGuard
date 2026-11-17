@@ -4,7 +4,7 @@
 
 ### Nazwa i autorzy
 * **Nazwa projektu:** LabGuard — Bezpieczny System Zarządzania Pracownią Techniczną i Wypożyczalnią Sprzętu
-* **Autor:** Szymon Zieliński
+* **Autor:** Szymon Zieliński oraz mateusz Ogonek
 
 ### Cel aplikacji
 * **Dla kogo:** Aplikacja tworzona jest dla uczniów oraz opiekunów pracowni informatycznych i sieciowych w technikum.
